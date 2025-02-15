@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class LittlelemonapiConfig(AppConfig):
+class restaurantConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'LittleLemonAPI'
+    name = 'restaurant'
